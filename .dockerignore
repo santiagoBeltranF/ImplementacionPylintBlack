@@ -1,0 +1,7 @@
+# Ignorar archivos y directorios específicos
+dist
+*.log
+.env
+Dockerfile
+docker-compose.yml
+__pycache__
